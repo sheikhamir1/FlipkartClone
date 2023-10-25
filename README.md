@@ -1,2 +1,0 @@
-# flipkart-clone
-Flipkart CLone
